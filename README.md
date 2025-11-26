@@ -25,6 +25,12 @@ Incluye red segmentada, Active Directory, DNS, DHCP, páginas web, portal intern
 ### Diagrama de Red
 ![Diagrama de Red](./capturas/DiagramaDeRed.png)
 
+### Configuración BIND9
+![Configuración BIND9](./capturas/ConfigBIND9.png)
+
+### Configuración DHCP
+![Configuración DHCP](./capturas/ConfigDHCP.png)
+
 ---
 
 ## Active Directory
