@@ -1,14 +1,14 @@
-# 🏗️ Implementación Integral de Infraestructura IT – Proyecto Final ASIR
+# Implementación Integral de Infraestructura IT – Proyecto Final ASIR
 
 Este proyecto corresponde al diseño e implementación completa de una infraestructura IT corporativa.  
 Incluye red segmentada, Active Directory, DNS, DHCP, páginas web, portal interno, base de datos en Docker, y seguridad con Wazuh y Greenbone.
 
-📄 **Memoria completa del proyecto:**  
+**Memoria completa del proyecto:**  
 [Descargar PDF](./Memoria%20Proyecto%20-%20Jose%20Martínez%20y%20Jose%20Luis%20Sánchez%202º%20ASIR.pdf)
 
 ---
 
-## 🚀 Tecnologías Utilizadas
+## Tecnologías Utilizadas
 - Windows Server (AD DS, GPOs)
 - Ubuntu Server (DNS BIND9, DHCP)
 - Docker + MySQL
@@ -20,51 +20,51 @@ Incluye red segmentada, Active Directory, DNS, DHCP, páginas web, portal intern
 
 ---
 
-## 📡 Infraestructura General
+## Infraestructura General
 
-### 🖧 Diagrama de Red
+### Diagrama de Red
 ![Diagrama de Red](./capturas/DiagramaDeRed.png)
 
 ---
 
-## 🧩 Active Directory
+## Active Directory
 
-### 🔹 Organización por Departamentos
+### Organización por Departamentos
 ![OUs](./capturas/UnidadesOrganizativas&Departamentos.png)
 
-### 🔹 GPO aplicada
+### GPO aplicada
 ![GPO](./capturas/ADDS_GPO.png)
 
-### 🔹 Carpetas personales
+### Carpetas personales
 ![Carpetas personales](./capturas/CarpetasPersonalesADDS.png)
 
 ---
 
-## 🐳 Base de Datos en Docker
+## Base de Datos en Docker
 ![Docker DB](./capturas/BaseDeDatos-Docker.png)
 
 ---
 
-## 🌐 Páginas Web
+## Páginas Web
 
-### 🔹 Página corporativa
+### Página corporativa
 ![Web corporativa](./capturas/PaginasWeb.Marlutec.png)
 
-### 🔹 Portal interno con login (PHP + MySQL)
+### Portal interno con login (PHP + MySQL)
 ![Conexion PHP](./capturas/conexion.php.png)
 
 ---
 
-## 🔐 Seguridad
+## Seguridad
 
-### 🛡️ Greenbone – Escaneo de vulnerabilidades
+### Greenbone – Escaneo de vulnerabilidades
 ![Greenbone Escaneo](./capturas/EscaneoGreenbone.png)
 
-### 🔍 Wazuh – Detección de eventos
+### Wazuh – Detección de eventos
 ![Wazuh](./capturas/EscaneoWazuh.png)
 
 ---
 
-## 🎥 Vídeos de funcionamiento 
+## Vídeos de funcionamiento 
 📁 Carpeta: `/capturas/videos-funcionamiento`
 
